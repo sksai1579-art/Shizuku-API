@@ -1,4 +1,4 @@
-# RISH
+adb shell /data/app/~~GL1I_faetwsLCIjqWx6NNA==/moe.shizuku.privileged.api-leC2ZmxVyYsZ6O4aQ_GNsg==/lib/arm/libshizuku.so# RISH
 
 <del>Rish is an Interactive SHell for android</del>
 
