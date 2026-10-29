@@ -1,3 +1,4 @@
+https://github.com/RikkaApps/Shizuku-API.git
 # RISH
 
 <del>Rish is an Interactive SHell for android</del>
