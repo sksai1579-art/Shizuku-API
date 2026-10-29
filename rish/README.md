@@ -1,4 +1,4 @@
-# RISH
+cp /sdcard/chosen-folder/* /data/data/terminal.package.name/files# RISH
 
 <del>Rish is an Interactive SHell for android</del>
 
